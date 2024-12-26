@@ -12,17 +12,25 @@ To list the local branches:
 
 To create a branch:
 
-    git checkout b class01
+    git checkout -b class01
 
 To see the latest local changes:
 
     git status
 
-To commit changes,
+To check/verify the modified content in existing file
+
+    get diff
+
+To stage the changes:
+
+    git add <filename>
+
+To commit changes:
 
     git commit -m "commit changes"
 
-To push the changes,
+To push the changes:
      
      git push orgin <sourceBranch>
 
