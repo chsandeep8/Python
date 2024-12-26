@@ -16,7 +16,7 @@ To create a branch:
 
 To see the latest local changes:
 
-   git  status
+    git status
 
 To commit changes,
 
