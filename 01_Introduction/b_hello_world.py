@@ -10,7 +10,6 @@ Purpose: Basic PEP 8 guidelines and
 This is docstring
 
 """
-
 # print as a statement in python 2
 # print "Hello world!"
 
